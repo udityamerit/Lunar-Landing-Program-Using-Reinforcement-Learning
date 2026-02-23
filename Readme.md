@@ -170,18 +170,34 @@ flowchart TD
 # 📂 Project Structure
 
 ```text
-Lunar-Landing-Program-Using-Reinforcement-Learning
-
+Lunar-Landing-Program-Using-Reinforcement-Learning/
+│
+├── Images/
+│   ├── After_training.webp
+│   ├── before_training.webp
+│   ├── bellman adaptation equation.PNG
+│   ├── detach function.PNG
+│   ├── example of max and unsqueeze.PNG
+│   ├── exploration vs explotation.PNG
+│   ├── local vs target.PNG
+│   ├── Loss of Agent.PNG
+│   ├── loss function.PNG
+│   ├── next_Q_targate.PNG
+│   ├── Replaymemory.PNG
+│   ├── Soft Update.PNG
+│   └── unsqueez.PNG
+│
+├── video_training/               
+│   ├── rl-video-episode-0.mp4
+│   ├── rl-video-episode-25.mp4
+│   ├── rl-video-episode-50.mp4
+│   └── ... (other recorded episodes)
 │
 ├── Lunar Landing Program Using RL.ipynb
-│
-├── RL Agent Implementation
-│
-├── Deep Q Network Model
-│
-├── Replay Memory
-│
-└── Training and Evaluation
+├── Lunar Landing Program Using RL.pdf
+├── Lunar_Landing_agent.pth
+├── Readme.md
+└── requirements.txt
 
 ```
 

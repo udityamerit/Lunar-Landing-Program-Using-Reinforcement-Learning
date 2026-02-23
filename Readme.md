@@ -5,6 +5,17 @@ The agent learns optimal landing strategies using the **Deep Q-Network (DQN)** a
 
 This project demonstrates how reinforcement learning enables machines to **learn complex control tasks through trial and error**.
 
+# Project Demonstration
+- ## Before Training
+<p align="center">
+  <img src="Images\before_training.webp" alt="Before Training" width="100%">
+</p>
+
+- ## After Training
+<p align="center">
+  <img src="Images\After_training.webp" alt="After Training" width="100%">
+</p>
+
 ---
 
 # 📌 Project Overview
@@ -164,6 +175,8 @@ During training:
 
 Performance is evaluated using **episode scores and rolling average rewards**.
 
+## Agent Training Progress
+![alt text](image.png)
 ---
 
 # ▶️ How to Run the Project
@@ -201,18 +214,6 @@ This project demonstrates reinforcement learning applications in:
 * Autonomous vehicles
 * Game AI
 * Decision-making systems
-
----
-
-# 🚀 Future Improvements
-
-Possible enhancements include:
-
-* Double Deep Q Network
-* Dueling Network Architecture
-* Prioritized Experience Replay
-* Policy Gradient Methods
-* PPO or Actor-Critic algorithms
 
 ---
 

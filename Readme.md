@@ -78,9 +78,9 @@ Where
 * γ = discount factor
 * s' = next state
 
-![alt text](Images\action_and_observation.PNG)
-![alt text](Images\reward.PNG)
+![alt text](image.png)
 
+![alt text](image-1.png)
 ---
 
 # 🏗️ System Architecture

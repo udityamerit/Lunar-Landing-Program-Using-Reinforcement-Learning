@@ -78,9 +78,9 @@ Where
 * γ = discount factor
 * s' = next state
 
-![alt text](image.png)
+![alt text](action_and_observation.png)
 
-![alt text](image-1.png)
+![alt text](reward.png)
 ---
 
 # 🏗️ System Architecture
@@ -251,7 +251,7 @@ Performance is evaluated using **episode scores and rolling average rewards**.
 
 ## Agent Training Progress
 
-![alt text](Images\agentprogress.png)
+![alt text](agentprogress.png)
 
 # ▶️ How to Run the Project
 

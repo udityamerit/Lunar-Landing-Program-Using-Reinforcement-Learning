@@ -78,6 +78,9 @@ Where
 * γ = discount factor
 * s' = next state
 
+![alt text](Images\action_and_observation.PNG)
+![alt text](Images\reward.PNG)
+
 ---
 
 # 🏗️ System Architecture
@@ -245,9 +248,10 @@ During training:
 
 Performance is evaluated using **episode scores and rolling average rewards**.
 
-![alt text](image-1.png)
 
 ## Agent Training Progress
+
+![alt text](Images\image.png)
 
 # ▶️ How to Run the Project
 
@@ -296,6 +300,7 @@ This project demonstrates reinforcement learning applications in:
 B.Tech Computer Science Engineering (AI & ML)
 VIT Bhopal University
 
+
 🌐 Portfolio
 [https://udityanarayantiwari.netlify.app/](https://udityanarayantiwari.netlify.app/)
 
@@ -304,7 +309,3 @@ VIT Bhopal University
 
 📚 Knowledge Base
 [https://udityaknowledgebase.netlify.app/](https://udityaknowledgebase.netlify.app/)
-
-```
-
-```

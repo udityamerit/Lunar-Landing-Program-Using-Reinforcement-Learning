@@ -251,7 +251,7 @@ Performance is evaluated using **episode scores and rolling average rewards**.
 
 ## Agent Training Progress
 
-![alt text](Images\image.png)
+![alt text](Images\agentprogress.png)
 
 # ▶️ How to Run the Project
 

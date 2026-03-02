@@ -294,6 +294,17 @@ This project demonstrates reinforcement learning applications in:
 
 ---
 
+## Research Papers / References
+
+1. Gaudet, B., & Furfaro, R. (2018). Deep Reinforcement Learning for Six-Degree-of-Freedom Planetary Powered Descent and Landing.  
+https://arxiv.org/pdf/1810.08719.pdf
+
+2. Solving the Lunar Lander Problem under Uncertainty using Reinforcement Learning.  
+https://arxiv.org/pdf/2011.11850.pdf
+
+3. Comparison of Deep Reinforcement Learning Algorithms for Lunar Landing.  
+https://www.atlantis-press.com/article/125998095.pdf
+
 # 👨‍💻 Author
 
 **Uditya Narayan Tiwari**
@@ -309,3 +320,4 @@ VIT Bhopal University
 
 📚 Knowledge Base
 [https://udityaknowledgebase.netlify.app/](https://udityaknowledgebase.netlify.app/)
+
